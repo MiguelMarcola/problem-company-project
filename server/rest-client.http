@@ -1,0 +1,10 @@
+#Rodar integração
+POST http://localhost:3001/api/v1/films HTTP/1.1
+
+
+###
+
+#Listar Dados
+GET http://localhost:3001/api/v1/films HTTP/1.1
+
+#
